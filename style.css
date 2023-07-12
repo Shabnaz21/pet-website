@@ -9,7 +9,7 @@
     align-items: center;
     background-image: url('images/Vector.png');
     background-repeat: no-repeat;
-    background-position: 400px 480px;
+    background-position: 350px 520px;
 }
 .hcontent{
     width: 600px;
@@ -38,7 +38,7 @@
     gap:2px ;
     background-image: url('images/Vector.png');
     background-repeat: no-repeat;
-    background-position: 570px -50px;
+    background-position: 700px -60px;
     
 }
 .welcome-img{
@@ -60,4 +60,23 @@ margin-right: 150px;
     color: #FFF;
     font-size: 24px;
     font-weight: 500;
+}
+.container{
+    border-radius: 24px;
+    background-color: #EFEEEE;
+    display: flex;
+    width: 80%;
+    margin: auto;
+    margin-top: -100px;
+}
+.pet-container{
+    align-items: center;
+    padding:20px 40px;
+    display: flex;
+}
+.image-conatiner{
+    margin-left: 32px;
+    align-items: center;
+    padding: -10px;
+
 }
