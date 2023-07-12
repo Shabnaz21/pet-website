@@ -1,0 +1,63 @@
+* {
+    font-family: 'Lato', sans-serif;
+}
+
+.headboy{
+    background-color: #EFC356;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-image: url('images/Vector.png');
+    background-repeat: no-repeat;
+    background-position: 400px 480px;
+}
+.hcontent{
+    width: 600px;
+    margin-left: 180px;
+    
+    
+    
+}
+
+.htitle{
+    color: #FFF;
+    font-size: 80px;
+    font-weight: 800;
+    line-height: 88px;
+    letter-spacing: 0.8px;
+}
+
+.hparagraph{
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32px;
+}
+.images{
+    display: flex;
+    gap:2px ;
+    background-image: url('images/Vector.png');
+    background-repeat: no-repeat;
+    background-position: 570px -50px;
+    
+}
+.welcome-img{
+margin-top: 98px;
+margin-right: 150px;
+}
+    
+
+.h-img{
+    margin: 98px 157px 120px 0px;
+}
+.btn-primary{
+    border: 0;
+    padding: 24px 64px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 40px;
+    background: #7EB5E1;
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+}
